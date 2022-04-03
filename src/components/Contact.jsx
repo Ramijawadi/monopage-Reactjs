@@ -1,5 +1,6 @@
 import React from 'react';
 
+
 function Contact() {
   return (
     <div id='contact'>
@@ -7,6 +8,7 @@ function Contact() {
     <div className='contact-input'>
     <input type='email'  placeholder='exemple@gmail.com'/>
 <a href='#'>Contact</a>
+ 
 
     </div>
     
